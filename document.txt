@@ -1,1 +1,1 @@
-This is a plain text document to practice Git.
+This is a plain text document to practice Git. I have added this line after the initial commit was done. Let's see how things change.
